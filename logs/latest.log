@@ -1,33 +1,4 @@
-[02:21:08] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[02:21:08] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[02:21:08] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[02:21:08] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[02:21:09] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[02:21:09] [Server thread/INFO]: Loading properties
-[02:21:09] [Server thread/INFO]: Default game type: SURVIVAL
-[02:21:09] [Server thread/INFO]: Generating keypair
-[02:21:09] [Server thread/INFO]: Starting Minecraft server on 192.168.1.122:25565
-[02:21:09] [Server thread/INFO]: Using default channel type
-[02:21:10] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:21:10] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:21:10] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:21:10] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:21:10] [Server thread/INFO]: Preparing level "world"
-[02:21:10] [Server thread/INFO]: Reloading ResourceManager: Default
-[02:21:11] [Server thread/INFO]: Loaded 6 recipes
-[02:21:11] [Server thread/INFO]: Loaded 825 advancements
-[02:21:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:21:13] [Server thread/INFO]: Preparing spawn area: 0%
-[02:21:13] [Server thread/INFO]: Preparing spawn area: 0%
-[02:21:13] [Server thread/INFO]: Preparing spawn area: 0%
-[02:21:13] [Server thread/INFO]: Preparing spawn area: 0%
-[02:21:13] [Server thread/INFO]: Time elapsed: 1742 ms
-[02:21:13] [Server thread/INFO]: Done (3.328s)! For help, type "help"
-[02:21:58] [Server thread/INFO]: LeCuack[/192.168.1.122:55741] logged in with entity id 119 at (134.84831216232317, 65.0, -510.1109874146663)
-[02:21:58] [Server thread/INFO]: LeCuack joined the game
-[02:22:33] [Server thread/INFO]: CesarIll[/181.188.161.143:18758] logged in with entity id 375 at (129.5022779863009, 64.0, -511.94393606908045)
-[02:22:33] [Server thread/INFO]: CesarIll joined the game
-[02:25:24] [Server thread/INFO]: LeCuack lost connection: Disconnected
-[02:25:24] [Server thread/INFO]: LeCuack left the game
-[02:25:28] [Server thread/INFO]: CesarIll lost connection: Disconnected
-[02:25:28] [Server thread/INFO]: CesarIll left the game
+[00:06:54] [Server thread/INFO]: AriaSerenade21 was blown up by Creeper
+[00:25:00] [Server thread/INFO]: AriaSerenade21 lost connection: Disconnected
+[00:25:00] [Server thread/INFO]: AriaSerenade21 left the game
+[00:28:15] [Server thread/INFO]: Stopping server
