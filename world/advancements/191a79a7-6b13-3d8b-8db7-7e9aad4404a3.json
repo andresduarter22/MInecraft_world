@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2020-03-23 17:55:53 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2020-03-20 22:31:51 -0400"
@@ -399,6 +405,7 @@
     "criteria": {
       "cooked_porkchop": "2020-03-20 22:45:20 -0400",
       "sweet_berries": "2020-03-20 22:24:18 -0400",
+      "baked_potato": "2020-03-23 18:28:54 -0400",
       "apple": "2020-03-20 22:32:01 -0400",
       "potato": "2020-03-21 18:26:55 -0400",
       "bread": "2020-03-21 02:02:21 -0400",
@@ -455,6 +462,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2020-03-21 00:41:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2020-03-23 17:55:53 -0400"
     },
     "done": true
   },
@@ -613,6 +626,12 @@
       "has_stone": "2020-03-22 22:03:13 -0400"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:pig": "2020-03-23 10:04:17 -0400"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
@@ -836,6 +855,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_birch_planks": "2020-03-23 17:55:53 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2020-03-21 18:15:59 -0400"
@@ -1040,6 +1065,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2020-03-23 17:55:53 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2020-03-20 23:55:38 -0400"
@@ -1088,9 +1119,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2020-03-23 18:55:52 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2020-03-21 18:15:59 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2020-03-23 17:55:53 -0400"
     },
     "done": true
   },
@@ -1241,6 +1284,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2020-03-21 00:41:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2020-03-23 17:55:53 -0400"
     },
     "done": true
   },
@@ -1487,6 +1536,12 @@
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2020-03-21 01:29:24 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2020-03-23 17:55:53 -0400"
     },
     "done": true
   },
@@ -1781,6 +1836,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2020-03-23 17:55:53 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2020-03-23 18:55:52 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2020-03-21 18:15:59 -0400"
@@ -1838,6 +1905,18 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2020-03-20 23:55:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2020-03-23 10:04:17 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2020-03-23 17:55:53 -0400"
     },
     "done": true
   },
